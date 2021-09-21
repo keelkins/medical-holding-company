@@ -51,7 +51,6 @@ get_header(); ?>
 						<td>John F. Albritton, M.D.</td>
 						<td>Christine Mestemacher, M.D.</td>
 						<td>Lanetta Anderson, M.D.</td>
-						<td>Vanessa Givens, M.D.</td>
 					</tr>
 					<tr>
 						<td>Lea Mary Bannister, M.D.</td>
@@ -94,7 +93,7 @@ get_header(); ?>
 						<td>G. Aric Giddens, M.D.</td>
 						<td></td>
 						<td></td>
-						<td></td>
+						<td>Lacie Shultz, N.C.P.</td>
 					</tr>
 
 					<tr>
@@ -273,13 +272,13 @@ get_header(); ?>
 				<p>Women's Health Specialists</p>
 				<a href="http://www.mogamd.com" target="_blank">www.whsobgyn.com</a>
 				<ul class="dr-list">
-					<li>Vanessa Givens, M.D.</li>
 					<li>Sherri Li, M.D.</li>
 					<li>Frank Ling, M.D.</li>
 					<li>Amy Nelson, M.D.</li>
 					<li>Thomas Stovall, M.D.</li>
 					<li>Margaret Summitt, M.D.</li>
 					<li>Robert Summitt, M.D.</li>
+					<li>Lacie Shultz, N.C.P.</li>
 				</ul>
 			</div>
 
